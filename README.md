@@ -22,3 +22,7 @@ cd clipboard_watcher
 chmod +x clipboard_watcher.sh
 ./clipboard_watcher.sh &
 ```
+
+## Demo
+
+![demo](https://github.com/user-attachments/assets/bc1a842a-a2ff-402d-b472-3aa02a13287b)
